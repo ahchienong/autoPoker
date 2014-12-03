@@ -36,3 +36,8 @@ Also take note that running this continuously may cost you lots of memories (ram
 ```^``` You will need to login to your Facebook account in the same browser for loading the lists of pokes (obviously).
   
 ```+``` You will have to leave the page with this script ( let's call it autoPoker tab ) alone, browse your Facebook page in another tab as the Javascript will interfere with your actions.
+
+
+
+## Examples
+![Example FB Pokes Screen](https://cloud.githubusercontent.com/assets/3302457/5279915/31654886-7b25-11e4-95b3-42d240b5ba83.jpg)
