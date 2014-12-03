@@ -26,7 +26,7 @@ Also take note that running this continuously may cost you lots of memories (ram
 
 (2) Open your Chrome browser console ( Shortcuts: press ```F12``` )
 
-(3) Paste the following code on the console and press ```ENTER```
+(3) Paste the following code in [autoPoker.js](https://github.com/ahchienong/autoPoker/blob/master/autoPoker.js) on the console and press ```ENTER```
 
 (4) Voilà! It does the pokes for you :)
 
