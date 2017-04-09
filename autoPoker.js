@@ -38,4 +38,4 @@ function doPoke(){
 	toPoke = [];
 }
 // Scheduler code
-setInterval("doPoke()", schedule_in_seconds*1000);
+setInterval(function(){doPoke()}, schedule_in_seconds*1000);
